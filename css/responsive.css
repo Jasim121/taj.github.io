@@ -1,0 +1,39 @@
+@media only screen and (max-width: 600px) {
+	.ourstorycon {
+		height: auto;
+		width: 918px;
+		max-width: 100%;
+		margin-bottom: 70px;
+		max-height: 100%;
+	}
+	.con-ma-2 {
+		border-right: 1px solid #ebebeb;
+		border-bottom: 1px solid #ebebeb;
+	}
+	.team {
+		height: auto;
+	}
+	.part h5 {
+		margin-left: 20px;
+		text-align: center;
+	}
+	.part-button button {
+		margin-left: 22px;
+		text-align: center;
+	}
+	.home {
+		max-width: 100%;
+		margin-left: 0px;
+	}
+	.navbar {
+		background: #fff;
+	}
+	.navbar-nav li a {
+		background-color: #13102d;
+	}
+	.ourstorycon-con {
+		width: 100%;
+	}
+	
+
+}
